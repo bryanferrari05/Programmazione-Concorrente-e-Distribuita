@@ -11,7 +11,7 @@ Stessa logica del primo ma gestisce gli errori
 
 import java.io.*;
 
-class TestIOTerminale {
+class TestIOTerminale_a {
 
     public static void main(String[] args) throws IOException {
         // costruiamo un buffered reader
